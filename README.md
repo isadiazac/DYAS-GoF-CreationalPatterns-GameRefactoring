@@ -10,7 +10,9 @@ El objetivo es desacoplar la lógica del juego de su estilo de visualización, p
 
 ---
 
-## 🎮 Estilos visuales disponibles
+![Diagrama UML](/resources/uml.png)
+
+## Estilos visuales disponibles
 
 Actualmente, el juego soporta **tres estilos de visualización**:
 
@@ -25,7 +27,7 @@ Actualmente, el juego soporta **tres estilos de visualización**:
 
 ---
 
-## ⚙️ Cómo cambiar el estilo del juego
+## Cómo cambiar el estilo del juego
 
 El estilo se selecciona modificando una constante en el archivo [`Game.java`](src/main/java/com/balitechy/spacewar/main/Game.java):
 
@@ -41,7 +43,7 @@ Ejemplo:
 - private static final String VISUAL_STYLE = "colorful";
 - private static final String VISUAL_STYLE = "vectorial";
 
-## 📄 Licencia
+## Licencia
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
   <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" />
