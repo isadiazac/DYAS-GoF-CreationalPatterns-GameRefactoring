@@ -10,7 +10,7 @@ El objetivo es desacoplar la lógica del juego de su estilo de visualización, p
 
 ---
 
-![Diagrama UML](/resources/uml.png)
+![Diagrama UML](\src\main\java\resources\uml.png)
 
 ## Estilos visuales disponibles
 
