@@ -2,7 +2,7 @@
 
 ## Diseño y Arquitectura de Software
 
-# Space War 2D – Refactoring con Fábrica Abstracta
+## Space War 2D – Refactoring con Fábrica Abstracta
 
 Este proyecto es una adaptación del juego [spacewar-2d](https://github.com/ekaputra07/spacewar-2d), modificada como ejercicio académico para aplicar **Patrones de Diseño Creacionales** (especialmente _Fábrica Abstracta_) y el principio de **Inversión de Dependencias**.
 
