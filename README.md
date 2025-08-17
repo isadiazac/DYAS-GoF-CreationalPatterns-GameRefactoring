@@ -29,18 +29,16 @@ Actualmente, el juego soporta **tres estilos de visualización**:
 
 El estilo se selecciona modificando una constante en el archivo [`Game.java`](src/main/java/com/balitechy/spacewar/main/Game.java):
 
-````java
-// Línea 33 aprox. en Game.java
-
-private static final String VISUAL_STYLE = "colorful";
 ### Opciones válidas:
+
 - `"sprite"` → Estilo basado en imágenes.
 - `"vectorial"` → Estilo vectorial retro en blanco y negro.
 - `"colorful"` → Estilo vectorial a color.
 
+// Línea 33 aprox. en Game.java
 Ejemplo:
 
-```java
+private static final String VISUAL_STYLE = "colorful";
 private static final String VISUAL_STYLE = "vectorial";
 
 ## 📄 Licencia
@@ -53,4 +51,6 @@ Este proyecto está licenciado bajo la
   Creative Commons Attribution-NonCommercial 4.0 International License
 </a>.
 
-````
+```
+
+```
