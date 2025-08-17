@@ -43,6 +43,8 @@ Ejemplo:
 - private static final String VISUAL_STYLE = "colorful";
 - private static final String VISUAL_STYLE = "vectorial";
 
+Trabajado junto con Juan Pablo Parrado
+
 ## Licencia
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
@@ -53,7 +55,7 @@ Este proyecto está licenciado bajo la
   Creative Commons Attribution-NonCommercial 4.0 International License
 </a>.
 
-Trabajado junto con Juan Pablo Parrado
+
 ```
 
 ```
