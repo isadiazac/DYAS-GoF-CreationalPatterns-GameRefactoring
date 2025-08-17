@@ -38,8 +38,8 @@ El estilo se selecciona modificando una constante en el archivo [`Game.java`](sr
 // Línea 33 aprox. en Game.java
 Ejemplo:
 
-private static final String VISUAL_STYLE = "colorful";
-private static final String VISUAL_STYLE = "vectorial";
+- private static final String VISUAL_STYLE = "colorful";
+- private static final String VISUAL_STYLE = "vectorial";
 
 ## 📄 Licencia
 
