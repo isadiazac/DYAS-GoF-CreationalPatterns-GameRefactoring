@@ -53,6 +53,7 @@ Este proyecto está licenciado bajo la
   Creative Commons Attribution-NonCommercial 4.0 International License
 </a>.
 
+Trabajado junto con Juan Pablo Parrado
 ```
 
 ```
