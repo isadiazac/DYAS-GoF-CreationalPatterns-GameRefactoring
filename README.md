@@ -4,13 +4,15 @@
 
 ## Space War 2D – Refactoring con Fábrica Abstracta
 
-Este proyecto es una adaptación del juego [spacewar-2d](https://github.com/ekaputra07/spacewar-2d), modificada como ejercicio académico para aplicar **Patrones de Diseño Creacionales** (especialmente _Fábrica Abstracta_) y el principio de **Inversión de Dependencias**.
+Este proyecto es una adaptación del juego spacewar-2d, modificada como ejercicio académico para aplicar **Patrones de Diseño Creacionales** (especialmente _Fábrica Abstracta_) y el principio de **Inversión de Dependencias**.
 
 El objetivo es desacoplar la lógica del juego de su estilo de visualización, permitiendo intercambiar fácilmente entre diferentes estilos gráficos.
 
 ---
 
 ![Diagrama UML](/uml.png)
+
+### Trabajado junto con Juan Pablo Parrado
 
 ## Estilos visuales disponibles
 
@@ -43,7 +45,7 @@ Ejemplo:
 - private static final String VISUAL_STYLE = "colorful";
 - private static final String VISUAL_STYLE = "vectorial";
 
-Trabajado junto con Juan Pablo Parrado
+
 
 ## Licencia
 
